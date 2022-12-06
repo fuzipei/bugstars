@@ -8,3 +8,17 @@ There are a lot of victims like me named Stars.Also represents the majority of v
 
 I will follow up and update this plan in the future, and this plan will also be updated in my blog. You can choose the way you like to access it
 In addition, thank the rare earth nuggets to the friends thank you for your support!! 0v0
+
+Raise issues!!
+
+Raise issues!!
+
+Raise issues!!
+
+Raise issues!!
+
+In your question: I suggest you to check the[art of asking questions] (http://www.catb.org/~esr/faqs/smart-questions.html)
+
+I am not immortal is not what problem can be seen at a glance must must describe clearly!
+
+Not all methods are suitable for all models. If there is no player who can find the corresponding model, please do not raise issues. Thank you for your understanding.
