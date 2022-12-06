@@ -1,4 +1,4 @@
-[中文](https://github.com/fuzipei/bugstars/blob/main/README.md)
+[中文请点这里](https://github.com/fuzipei/bugstars/blob/main/README.md)
 
 Because deeply beautiful MIUI some small bug enroach on, although the effect is not very big, but is not agghh agghh ohoo
 
