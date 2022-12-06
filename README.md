@@ -12,9 +12,14 @@
 另外感谢稀土掘金来的朋友们 谢谢你们的支持！！！0v0
 
 # 有问题提issues！！！
+
 有问题提issues！！！
+
 有问题提issues！！！
+
 有问题提issues！！！
+
 提交之前请您查看[提问的艺术](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 我会力所能及解决。
+
 不是所有的方法都适用于所有机型 如没有可以去寻找对应机型的玩机大佬 请勿提issues 感谢理解.
