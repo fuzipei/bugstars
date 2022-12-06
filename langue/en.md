@@ -2,7 +2,7 @@
 
 # This article for AI translation may have some grammatical differences, please understand
 
-#Because deeply beautiful MIUI some small bug enroach on, although the effect is not very big, but is not agghh agghh ohoo
+# Because deeply beautiful MIUI some small bug enroach on, although the effect is not very big, but is not agghh agghh ohoo
 
 So we created a program called Stars
 It is just that the mi phone I use is code-named star, but the manufacturer does not make a complete star
