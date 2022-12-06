@@ -21,7 +21,7 @@ Raise issues!!
 
 Raise issues!!
 
-In your question: I suggest you to check the[art of asking questions](http://www.catb.org/~esr/faqs/smart-questions.html)
+In your question: I suggest you to check the [art of asking questions](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 I am not immortal is not what problem can be seen at a glance must must describe clearly!
 
