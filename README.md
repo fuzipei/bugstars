@@ -19,7 +19,7 @@
 
 有问题提issues！！！
 
-提交之前请您查看[提问的艺术](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
-我会力所能及解决。
+在您提问之我建议您查看[提问的艺术](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
+我不是神仙 不是什么问题就能一眼看出来 一定一定要描述清楚！
 
 不是所有的方法都适用于所有机型 如没有可以去寻找对应机型的玩机大佬 请勿提issues 感谢理解.
