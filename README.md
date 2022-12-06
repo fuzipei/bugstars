@@ -1,5 +1,5 @@
 # bugstars | 繁星计划
-[English is here]
+[English is here](https://github.com/fuzipei/bugstars/blob/main/langue/en.md)
 因为深受MIUI一些细小bug侵害，虽然影响不是很大，但就是忍不下去啊啊啊啊啊啊啊啊啊啊啊啊
 
 于是创立这个计划 代号繁星
