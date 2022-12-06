@@ -11,6 +11,8 @@ There are a lot of victims like me named Stars.Also represents the majority of v
 I will follow up and update this plan in the future, and this plan will also be updated in my blog. You can choose the way you like to access it
 In addition, thank the rare earth nuggets to the friends thank you for your support!! 0v0
 
+## If you think it is helpful, please click on the Stars⭐ in the upper right corner. Your encouragement is the biggest support for me.
+
 # Raise issues!!
 
 Raise issues!!
